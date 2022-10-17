@@ -1,7 +1,7 @@
 int totaldots = 0;
 void setup()
 {
-  size(8000, 8000);
+  size(1000, 1000);
   noLoop();
 }
 Die bob;
